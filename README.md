@@ -1,7 +1,8 @@
 # AMIA-DLF Hack Days
-This repository holds a copy of the AMIA-DLF Hack Day pages, originally hosted on the CURATEcamp and DLF wikis. These pages were used to advertise Hack Day and record projects and results. As of 2024, the CURATEcamp wiki domain returns no response. All pages were migrated to GitHub and transformed into Markdown as part of Hack Day 2024 by Dave Rodriguez and Annie Schweikert.
+This repository holds a copy of the AMIA-DLF Hack Day pages, originally hosted on the CURATEcamp and DLF wikis. These pages were used to advertise Hack Day and record projects and results. As of 2024, the CURATEcamp wiki domain returns no response. All pages were migrated to GitHub and transformed into Markdown as part of Hack Day 2024 by Dave Rodriguez and Annie Schweikert. Inconsistencies and repetition may be from the source or from this migration :)
 
-A full archive of the original wiki lives on the [Internet Archive](http://web.archive.org/web/20240616044940/https://wiki.diglib.org/AMIA-DLF_Hack_Days).
+* [Original index page index on the DLF Wiki](https://wiki.diglib.org/AMIA-DLF_Hack_Days).
+* A full archive of the original wiki lives on the [Internet Archive](http://web.archive.org/web/20240616044940/https://wiki.diglib.org/AMIA-DLF_Hack_Days).
 
 Jump to a year...
 
