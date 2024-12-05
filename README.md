@@ -1,6 +1,8 @@
 # AMIA-DLF Hack Days
 This repository holds the AMIA-DLF Hack Day pages, used to advertise and organize Hack Day, as well as record projects and results. 
 
+:dizzy: :computer: :sparkles: [List of all Hack Day projects](all_projects.md) :sparkles: :computer: :dizzy:
+
 Jump to a year...
 
 * [2013](2013.md)
@@ -14,11 +16,9 @@ Jump to a year...
 * [2022](2022.md)
 * [2024](2024.md)
 
-* [All Hack Day projects](all_projects.md)
-
 ## History of these pages
 
-These pages were originally hosted on the CURATEcamp and DLF wikis. As of 2024, the CURATEcamp wiki domain returns no response. All pages were migrated to GitHub and transformed into Markdown as part of Hack Day 2024 by Dave Rodriguez and Annie Schweikert.
+These pages were originally hosted on the CURATEcamp and DLF wikis. As of 2024, the CURATEcamp wiki domain returns no response. All pages were migrated to GitHub, transformed into Markdown, and cleaned up/enhanced as part of Hack Day 2024 by Dave Rodriguez and Annie Schweikert. Content on the pages wasn't generally changed, but may have been lightly edited upon migration.
 
 * [Original index page index on the DLF Wiki](https://wiki.diglib.org/AMIA-DLF_Hack_Days).
 * A full archive of the original wiki lives on the [Internet Archive](http://web.archive.org/web/20240616044940/https://wiki.diglib.org/AMIA-DLF_Hack_Days).
