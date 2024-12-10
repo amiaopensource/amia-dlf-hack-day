@@ -2,8 +2,8 @@
 
 ## Software and Tools
 
-* [qct-parse](https://github.com/amiaopensource/qct-parse) (2016, enhancement 2024)
-* Transcription/caption tools: [webvtt_metadata](https://github.com/ninarao/webvtt_metadata), [WhisperGUI](https://github.com/ninarao/WhisperGUI), and [wer_calc](https://github.com/ninarao/wer_calc) (enhancement 2024)
+* [qct-parse](https://github.com/amiaopensource/qct-parse) (2016, enhancement [2024](https://github.com/amiaopensource/amia-dlf-hack-day/blob/main/2024.md#projects-for-2024))
+* Transcription/caption tools: [webvtt_metadata](https://github.com/ninarao/webvtt_metadata), [WhisperGUI](https://github.com/ninarao/WhisperGUI), and [wer_calc](https://github.com/ninarao/wer_calc) (enhancement [2024](https://github.com/amiaopensource/amia-dlf-hack-day/blob/main/2024.md#projects-for-2024))
 * [grabbags](https://github.com/amiaopensource/grabbags) (2019, enhancement [2021](https://github.com/amiaopensource/amia-dlf-hack-day/blob/main/2021.md#hack-day-2021))
 * [loglog](https://github.com/amiaopensource/loglog) ([2021](https://github.com/amiaopensource/amia-dlf-hack-day/blob/main/2021.md#hack-day-2021))
 * [checksumthing](https://github.com/amiaopensource/checksumthing) ([2016](https://github.com/amiaopensource/amia-dlf-hack-day/blob/main/2016.md#checksumthing-a-checksum-crosswalk-python-script-checksumthing))
